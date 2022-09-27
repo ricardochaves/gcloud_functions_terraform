@@ -15,7 +15,6 @@ Generate a new key with json format
 
 Move the key to the root of the project
 
-project_id no comando abaixo
 `gcloud auth activate-service-account terraform@production-363623.iam.gserviceaccount.com --key-file=production-363623-0810979e1116.json --project=production-363623`
 
 APIs to enable
